@@ -1,0 +1,19 @@
+name: flutter_fullscreen_modal
+description: Cupertino like fullscreen modal.
+version: 0.0.2
+author: Luke Urban, null safety by Fuat Şahin
+homepage: https://github.com/lukeurban/flutter_fullscreen_modal
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=1.17.0 <2.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+ 
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
